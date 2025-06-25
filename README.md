@@ -16,9 +16,11 @@ Demonstrated that wish-list counts had minimal impact, refocusing inventory stra
 Recommended dynamic pricing and inventory prioritization for high-demand items.
 
 **Impact & takeaways**
+
 Our insights offered the retailer a clear path to reduce $500B in global unsold fashion inventory, boost revenue, and shrink environmental waste. I honed my skills in model comparison and translating technical results into ethical, actionable business moves.
 
 **Before Data-Preprocessing:**
+
 <img width="1280" alt="Screenshot 2024-11-22 at 1 47 08 PM" src="https://github.com/user-attachments/assets/e8057c14-41c4-4d68-9afd-bdc3c0b04361" />
 <img width="1280" alt="Screenshot 2024-11-22 at 1 48 11 PM" src="https://github.com/user-attachments/assets/898cd658-588f-4815-9d43-0bb33c202635" />
 
