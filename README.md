@@ -1,1 +1,1 @@
-# demand-forecasting-multi-refression-model-withR
+# demand-forecasting-multi-regression-model-with-R
