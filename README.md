@@ -22,6 +22,7 @@ Our insights offered the retailer a clear path to reduce $500B in global unsold 
 <img width="1280" alt="Screenshot 2024-11-22 at 1 47 08 PM" src="https://github.com/user-attachments/assets/e8057c14-41c4-4d68-9afd-bdc3c0b04361" />
 <img width="1280" alt="Screenshot 2024-11-22 at 1 48 11 PM" src="https://github.com/user-attachments/assets/898cd658-588f-4815-9d43-0bb33c202635" />
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **After Data Transformation:**
 <img width="1280" alt="Screenshot 2024-11-22 at 2 11 16 PM" src="https://github.com/user-attachments/assets/600a1b66-8bad-46ef-8bd0-d58c90e48084" />
