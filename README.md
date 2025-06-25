@@ -1,10 +1,12 @@
 # Demand Forecasting with ML (used four regression Models)
 
 
-**What this project is**
+**What this project is:**
+
 I worked with a team to predict which styles and products would fly off the shelves for a major apparel retailer. Using a five-year Kaggle dataset, we combined exploratory analysis with four machine-learning models to forecast demand and minimize waste.
 
 **My role & approach**
+
 I led data cleaning and feature engineering—creating a “price×discount” interaction metric and handling stock-out flags. We tested Logistic Regression, Decision Trees, Naive Bayes, and K-Nearest Neighbors, comparing each model’s accuracy, precision, recall, and F1 scores.
 
 **Key achievements**
